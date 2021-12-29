@@ -1,0 +1,74 @@
+body{
+    background-color:#7380e8;
+  }
+  .Format{
+    padding-top: 10px;
+    text-align: center;
+    font-size:35px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  .Email{
+    margin-top: 20px;
+    margin-left:20% ;
+    font-size:20px;
+    font-family: sans-serif;
+  }
+  .button1{
+    border-style:outset;
+    border-color:#7380e8;
+    background-color: white;
+    width: 300px;
+    height: 40px;
+    border-width: 1px;
+  }
+  .Password{
+    margin:0 ;
+    padding: 0;
+    margin-left:20% ;
+    font-size:20px;
+    font-family: sans-serif;
+  }
+  .Password label1{
+    color:blue;
+  }
+  .button2{
+    border-style:outset;
+    border-color:rgb(255, 224, 224);
+    background-color: white;
+    width: 300px;
+    margin: 0px;
+    padding:0;
+    height: 40px;
+  margin-left: 20%;
+  margin-top:20px ;
+  text-align: center;
+  font-size: 20px;
+  color: whitesmoke;
+  background-color: rgb(87, 87, 252);
+  border-width: 1px;
+  border-color:#7380e8;
+  }
+  .Loginnow{
+    margin-top: 10px;
+  }
+  .Loginnow p9{
+  
+    font-size: 18px; 
+  margin-left: 28%;
+  
+  }
+  .Loginnow p3{
+    color: rgb(75, 75, 255);
+  }
+  .box{
+    background-color: whitesmoke;
+   padding-top: none;
+   margin-top: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 500px;
+    width: 40%;
+    padding-bottom: none;
+  
+  }
